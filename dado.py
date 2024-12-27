@@ -1,0 +1,13 @@
+#coleta de dados pessoais
+nome = input('Digite o seu primeiro nome:')
+print(nome,',Muito prazer em te conhecer!')
+sobrenome = input('Agora digite o seu sobrenome:')
+endereço = input('Digite o seu endeço, Rua, Av,Lavadouro,etc:')
+número = input ('digite o número da sua residência:')
+complemento = input ('digite algum complemento , local, apto, bloco, etc:')
+cep = input ('digite o número do seu cep:')
+bairro = input ('digite o nome do seu bairro:')
+cidade = input ('digite o nome da sua cidade:')
+estado = input ('digite o nome do seu estado:')
+print ('As informações foram gravadas com sucesso.')
+print ('Obrigado pelas informações!')
